@@ -1,25 +1,8 @@
 {
-  "address": "contract address",
-  "tokenId": "business' name",
-  "description": "a description of the business",
-  "image": "business' logo",
-  "external_url": "link to the business' website",
+  "period_start": "beginning of period for which distribution applies",
+  "period_end": "end of period for which distribution applies",
+  "calculation": "basis on which distribution was calculated: PERCENT_FUNDED | PERCENT_OWNERSHIP",
   "entity_type": "can we standardize types?",
-  "formation_doc_hash": "a hash of whatever legal text links this entity to a state-registered entity",
-  "formation_text_url": "ideally IPFS link to full formation text",
-  "jurisdiction_national": "country",
-  "jurisdiction_regional": "state or province",
-  "registration_number": "file number in state trade register",
-  "creation_date": "datetime of creation date",
-  "last_update": "datetime of last update",
-  "references": [
-    {
-      "partner": "cooperativ",
-      "value": "some cooperativ ID"
-    },
-    {
-      "partner": "taterDAO",
-      "value": "some taterDAO ID"
-    }
-  ]
+  "short_note": "String",
+  "long_note_url": "String"
 }
