@@ -1,0 +1,8 @@
+{
+  "period_start": "beginning of period for which distribution applies",
+  "period_end": "end of period for which distribution applies",
+  "calculation": "basis on which distribution was calculated: PERCENT_FUNDED | PERCENT_OWNERSHIP",
+  "entity_type": "can we standardize types?",
+  "short_note": "String",
+  "long_note_url": "String"
+}
