@@ -1,4 +1,5 @@
 {
+  "version": "0.1",
   "address": "contract address",
   "tokenId": "business' name",
   "description": "a description of the business",
