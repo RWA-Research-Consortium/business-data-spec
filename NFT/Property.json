@@ -1,55 +1,47 @@
-{
-  "version": "0.1",
-  "Address": "0xef0ff94b152c00ed4620b149ee934f2f4a526387",
-  "tokenId": "Farm Parcel 1",
-  "name": "Twin Falls Farm",
-  "description": "Twin Falls farm with TFCC shares and pivot and wheeline irrigated.  This NFT presents data associated with the following real property as described in the legal description.  Depictions are for illustrative purposes only and are not a substitute for a title report",
-  "external_url": "https://www.farmapper.com/project/public/ahFzcHJpbmctYmFubmVyLTgzOXIdCxIQUHJvamVjdFB1YmxpY1VybBiAgIC6kODNCAw",
-  "image": "https://gateway.pinata.cloud/ipfs/QmVK8C8DNk1Mbc945e4B5vxYpkmdM4KpHHjFDLVzu36kze",
-  "events": [
-    {
-      "event_type": "maintenance",
-      "event_description": "description of maintenance",
-      "value": "cost/return"
-    }
-  ],
-  "attributes": [
-    {
-      "trait_type": "Land Classification",
-      "value": "Farm/Development"
-    },
-    {
-      "trait_type": "Location",
-      "value": "SW of Twin Falls, Idaho"
-    },
-    {
-      "trait_type": "Legal/Deed",
-      "value": "https://gateway.pinata.cloud/ipfs/QmYCq95xPQV3wV2xE8AKJGfQe4Tn7eKb4h4jErXjGEVawr"
-    },
-    {
-      "trait_type": "Parcels",
-      "value": "RP10S17E323000A, RP10S17E322410A, RP10S17E323010A"
-    },
-    {
-      "trait_type": "Owner",
-      "value": "Passive Rockchuck, LLC"
-    },
-    {
-      "trait_type": "KML download",
-      "value": "https://gateway.pinata.cloud/ipfs/QmUFwmvjMn3oZF1Gu4UY714Ba3u8kWbiwNmkpyVciBpK2A"
-    },
-    {
-      "trait_type": "Tag",
-      "value": "Irrigated Row Crop"
-    },
-    {
-      "display_type": "date",
-      "trait_type": "Created",
-      "value": 1614104534
-    },
-    {
-      "trait_type": "Max Supply",
-      "value": "1"
-    }
-  ]
+
+    "address": "0x027951da990113eb38d96d4208917a67d41b844d", //contract address
+    "tokenId": 9,
+    "name": "Couger Island",
+    "description": "This is an state land endowment auction of a private island on Payette Lake, Idaho.  Cougar Island is a private 14.21-acre island located in McCall,\nIdaho. With over 4,200 feet of water frontage on Payette Lake,\nthe Island offers unparalleled opportunity for privacy and\nrecreation in Idaho\u2019s most sought-after mountain town",
+    "external_url": "farmapper.com/project/public/ahFzcHJpbmctYmFubmVyLTgzOXIdCxIQUHJvamVjdFB1YmxpY1VybBiAgICVoumZCgw", //external data project
+    "image": "https://farmapper.mypinata.cloud/ipfs/QmQ3cAs94Yy9u64fj8s4Kwzq9qCzWXTAQ56WJMumdwCCjC/file_img.png",
+    "attributes": [
+        {
+            "trait_type": "Land Classification",
+            "value": "Recreation"
+        },
+        {
+            "trait_type": "Location",
+            "value": "McCall, ID"
+        },
+        {
+            "trait_type": "Legal/Deed",
+            "value": "https://web.archive.org/web/20220428150254/https://corbettbottlesfiles.blob.core.windows.net/files/auctions/22/IDL_CougarIsland/Flyer.pdf"
+        },
+        {
+            "trait_type": "Parcels",
+            "value": "Boise Meridian 19N 03E 022 L5"
+        },
+        {
+            "trait_type": "Owner",
+            "value": "State of Idaho"
+        },
+        {
+            "trait_type": "KML download",
+            "value": "https://farmapper.mypinata.cloud/ipfs/QmSMAzXvLZPDZHvpQBMQTUpc6ZzCLobMiG94xXE7hTd88Z"
+        },
+        {
+            "trait_type": "Tag",
+            "value": "Island RWA"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Created",
+            "value": 1651247277
+        },
+        {
+            "trait_type": "Max Supply",
+            "value": "1"
+        }
+    ]
 }
