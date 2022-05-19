@@ -10,7 +10,7 @@
   "jurisdiction_nation": "US",
   "jurisdiction_region": "MO",
   "jurisdiction_city": "Branson",
-	"postal_code": "65616"
+  "postal_code": "65616",
   "registration_number": "LP001410701",
   "registration_url": "https://bsd.sos.mo.gov/BusinessEntity/BusinessEntityDetail.aspx?page=beSearch&ID=4006350", //might be redundnat to formation doc
   "creation_date": "date of formation (ISO 8601 format YYYY-MM-DD)",
