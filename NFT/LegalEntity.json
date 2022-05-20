@@ -5,8 +5,6 @@
   "image_url": "", //optional url for logo or picture  - recommend square 350×350 (matches OpenSea)
   "website_url": "https://www.holidayterraceapartments.com/",  //optional link to website or social media url for the business
   "entity_type": "Limited Partnership",
-  "formation_doc_hash": "[TBD]", //State filing
-  "formation_doc_url": "ideally IPFS link to full formation text",
   "jurisdiction_nation": "US",
   "jurisdiction_region": "MO",
   "jurisdiction_city": "Branson",
