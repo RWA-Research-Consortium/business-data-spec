@@ -13,7 +13,8 @@ Our hope is that a global standard will emerge that allows all organizations to 
 
 This is inspired by the work of James McCall, who explained the concept in [this Medium post](https://medium.com/lexdaoism/when-daos-get-real-managing-real-property-on-a-blockchain-83f43f55da53). See also:
 * [OpenSea listing](https://opensea.io/assets/0x4e2df5ad942fafd27a68fa793c6a6494c9be998e/1)
-* [Raw JSON](https://ipfs.io/ipfs/QmcGAUWdX82uHcaHj8RQjbM1fQXEWAuybBnMF3bTvQSzj4) underlying the OpenSea listing
+* [Rarible listing](https://rarible.com/token/0x7d5dc08f33deb00b990f5b5fc69e1dbbaffcbe93:1)
+* [Raw JSON](https://ipfs.io/ipfs/QmcGAUWdX82uHcaHj8RQjbM1fQXEWAuybBnMF3bTvQSzj4) underlying these listings
 
 ### Notes
 1. Transactions inherently a bunch of relevant data (amounts, recipients, dates, etc.), so we should _exclude_ this information that which we add to the transaction data.
