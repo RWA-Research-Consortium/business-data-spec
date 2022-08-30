@@ -1,8 +1,10 @@
-This document is my initial thoughts on how to develop primitives, what they should look like and why.
+This document is my initial thoughts on how to develop standard (ideal: universal adoption) primitives, what they should look like and why.
 
 - Standards comprise a layer that others can build on top of (composability)
   - `[ [ Unique Asset ] [ Digital Representation ] [ Conflict Resolution] ]`
-  - => Legal Recognition => Market Adoption
+  - `[ [ Physical Records of Stewardship ] [ Digital Records of Stewardship ] [ Reconciliation ] ]`
+  - `[ Legal Disputes => Validity Recognition by courts => case law ]` 
+  - `[ Application layer adoption => larger market adoption ]`
 
 - What atomic primitives are necessary to represent real property ownership?
 
