@@ -1,11 +1,11 @@
 
 {
-  "address": "0x027951da990113eb38d96d4208917a67d41b844d", //contract address
+  "address": "0x027951da990113eb38d96d4208917a67d41b844d",
   "tokenId": 9,
   "name": "Cougar Island",
   "description": "This is an state land endowment auction of a private island on Payette Lake, Idaho.  Cougar Island is a private 14.21-acre island located in McCall,\nIdaho. With over 4,200 feet of water frontage on Payette Lake,\nthe Island offers unparalleled opportunity for privacy and\nrecreation in Idaho\u2019s most sought-after mountain town",
-  "external_url": "farmapper.com/project/public/ahFzcHJpbmctYmFubmVyLTgzOXIdCxIQUHJvamVjdFB1YmxpY1VybBiAgICVoumZCgw", //optional link to more information about the property, its up to the developer what to put her - business web site, farmmapper etc
-  "image_url": "https://farmapper.mypinata.cloud/ipfs/QmQ3cAs94Yy9u64fj8s4Kwzq9qCzWXTAQ56WJMumdwCCjC/file_img.png", //opional url for logo or picture  - recommend square 350×350 (matches OpenSea)
+  "external_url": "farmapper.com/project/public/ahFzcHJpbmctYmFubmVyLTgzOXIdCxIQUHJvamVjdFB1YmxpY1VybBiAgICVoumZCgw", 
+  "image_url": "https://farmapper.mypinata.cloud/ipfs/QmQ3cAs94Yy9u64fj8s4Kwzq9qCzWXTAQ56WJMumdwCCjC/file_img.png",
   "attributes": [
     {
       "trait_type": "Land Classification",
