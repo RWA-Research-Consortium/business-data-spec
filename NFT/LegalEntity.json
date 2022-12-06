@@ -1,16 +1,16 @@
 {
   "version": "0.1",
-  "tokenId": "", //not sure what this is
+  "tokenId": "", 
   "description": "Apartment community in Branson, Missouri",
-  "image_url": "", //optional url for logo or picture  - recommend square 350×350 (matches OpenSea)
-  "website_url": "https://www.holidayterraceapartments.com/",  //optional link to website or social media url for the business
+  "image_url": "optional url for logo or picture  - recommend square 350×350 (matches OpenSea)",
+  "website_url": "optional link to website or social media url for the business",
   "entity_type": "Limited Partnership",
   "jurisdiction_nation": "US",
   "jurisdiction_region": "MO",
   "jurisdiction_city": "Branson",
   "postal_code": "65616",
   "registration_number": "LP001410701",
-  "registration_url": "https://bsd.sos.mo.gov/BusinessEntity/BusinessEntityDetail.aspx?page=beSearch&ID=4006350", //might be redundnat to formation doc
+  "registration_url": "link to articles of incorporation or similar doc",
   "creation_date": "date of formation (ISO 8601 format YYYY-MM-DD)",
   "dissolution_date": "date of formal dissolution (ISO 8601 format YYYY-MM-DD)",
   "last_update": "date of last update (ISO 8601 format YYYY-MM-DD)",
